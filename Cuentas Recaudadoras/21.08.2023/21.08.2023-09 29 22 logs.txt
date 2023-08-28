@@ -1,0 +1,111 @@
+
+Asignaciones extraidas correctamente: ETV M.N 101010121
+Abriendo excel de cuentas, elija las asignaciones a migrar, luego guarde y cierre el archivo. Y presione "Migrar" en el GUI para continuar el proceso.
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta DISPAZ 101010102 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-LP02/352/
+Validación de saldo 0 correcto en asignación: CCAJ-LP02/351/
+21.08.2023 La operación de asignación: CCAJ-LP02/352/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-LP02/351/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-LP02/352/20  113883112
+1  CCAJ-LP02/351/20  113883113
+
+-------------------------------- Migracion de cuenta DISPAZ 101010102 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta DISALTO 101010106 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-EA10/345/
+Validación de saldo 0 correcto en asignación: CCAJ-EA10/344/
+21.08.2023 La operación de asignación: CCAJ-EA10/345/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-EA10/344/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-EA10/345/20  113883114
+1  CCAJ-EA10/344/20  113883115
+
+-------------------------------- Migracion de cuenta DISALTO 101010106 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta DISCRUZ 101010107 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-SC39/396/
+Validación de saldo 0 correcto en asignación: CCAJ-SC39/395/
+21.08.2023 La operación de asignación: CCAJ-SC39/396/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-SC39/395/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-SC39/396/20  113883116
+1  CCAJ-SC39/395/20  113883117
+
+-------------------------------- Migracion de cuenta DISCRUZ 101010107 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta DISTAR 101010109 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-TA43/190/
+Validación de saldo 0 correcto en asignación: CCAJ-TA43/189/
+21.08.2023 La operación de asignación: CCAJ-TA43/190/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-TA43/189/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-TA43/190/20  113883118
+1  CCAJ-TA43/189/20  113883119
+
+-------------------------------- Migracion de cuenta DISTAR 101010109 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta COCHABAMBA 101010111 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-CB11/195/
+Validación de saldo 0 correcto en asignación: CCAJ-CB11/194/
+21.08.2023 La operación de asignación: CCAJ-CB11/195/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-CB11/194/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-CB11/195/20  113883120
+1  CCAJ-CB11/194/20  113883121
+
+-------------------------------- Migracion de cuenta COCHABAMBA 101010111 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta SUCRE 101010114 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-SR27/159/
+Validación de saldo 0 correcto en asignación: CCAJ-SR27/158/
+21.08.2023 La operación de asignación: CCAJ-SR27/159/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-SR27/158/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-SR27/159/20  113883122
+1  CCAJ-SR27/158/20  113883123
+
+-------------------------------- Migracion de cuenta SUCRE 101010114 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta POTOSI 101010117 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-PT53/161/
+Validación de saldo 0 correcto en asignación: CCAJ-PT53/160/
+21.08.2023 La operación de asignación: CCAJ-PT53/161/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-PT53/160/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-PT53/161/20  113883124
+1  CCAJ-PT53/160/20  113883125
+
+-------------------------------- Migracion de cuenta POTOSI 101010117 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta ORURO 101010119 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-OR52/159/
+Validación de saldo 0 correcto en asignación: CCAJ-OR52/158/
+21.08.2023 La operación de asignación: CCAJ-OR52/159/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-OR52/158/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-OR52/159/20  113883126
+1  CCAJ-OR52/158/20  113883127
+
+-------------------------------- Migracion de cuenta ORURO 101010119 a 101020101 ETV M.N finalizada --------------------------------
+
+----------------------------- 21.08.2023 Iniciando Migracion de cuenta TRINIDAD 101010121 a 101020101  ETV M.N -----------------------------
+Validación de saldo 0 correcto en asignación: CCAJ-TR47/186/
+Validación de saldo 0 correcto en asignación: CCAJ-TR47/185/
+21.08.2023 La operación de asignación: CCAJ-TR47/186/ fue migrada correctamente
+21.08.2023 La operación de asignación: CCAJ-TR47/185/ fue migrada correctamente
+None
+         Asignacion       Ndoc
+0  CCAJ-TR47/186/20  113883128
+1  CCAJ-TR47/185/20  113883129
+
+-------------------------------- Migracion de cuenta TRINIDAD 101010121 a 101020101 ETV M.N finalizada --------------------------------

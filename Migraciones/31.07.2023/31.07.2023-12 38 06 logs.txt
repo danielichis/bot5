@@ -1,0 +1,74 @@
+
+31.07.2023-12 37 29 Iniciando proceso de pegado de asignaciones y ndocs
+2 La asignación CCAJ-LP02/321/20 - 113762403 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISPAZ en la fila 2556 para MN.
+3 La asignación CCAJ-LP02/320/20 - 113762404 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISPAZ en la fila 2528 para MN.
+4 La asignación CCAJ-LP02/319/20 - 113744905 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISPAZ en la fila 2489 para MN.
+5 La asignación CCAJ-LP02/318/20 - 113744906 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISPAZ en la fila 2468 para MN.
+2 La asignación CCAJ-LP08/172/23 - 113762372 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. ACHUMANI en la fila 716 para MN.
+3 La asignación CCAJ-LP08/171/23 - 113762373 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. ACHUMANI en la fila 701 para MN.
+2 La asignación CCAJ-LP01/323/23 - 113762375 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MURILLO en la fila 1019 para MN.
+3 La asignación CCAJ-LP01/322/23 - 113762376 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MURILLO en la fila 1005 para MN.
+2 La asignación CCAJ-LP07/171/23 - 113762377 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MAX PAREDES en la fila 682 para MN.
+3 La asignación CCAJ-LP07/170/23 - 113762378 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MAX PAREDES en la fila 668 para MN.
+2 La asignación CCAJ-EA10/313/20 - 113762405 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISALTO en la fila 1800 para MN.
+3 La asignación CCAJ-EA10/312/20 - 113762406 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISALTO en la fila 1776 para MN.
+4 La asignación CCAJ-EA10/311/20 - 113744907 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISALTO en la fila 1759 para MN.
+5 La asignación CCAJ-EA10/310/20 - 113744908 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISALTO en la fila 1737 para MN.
+2 La asignación CCAJ-EA58/170/23 - 113762380 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. SATELITE en la fila 681 para MN.
+3 La asignación CCAJ-EA58/171/23 - 113762619 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. SATELITE en la fila 696 para MN.
+2 La asignación CCAJ-SC39/361/20 - 113762407 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISCRUZ en la fila 5362 para MN.
+3 La asignación CCAJ-SC39/359/20 - 113762408 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISCRUZ en la fila 5318 para MN.
+4 La asignación CCAJ-SC39/361/20 - 113762407 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISCRUZ en la fila 5362 para MN.
+5 La asignación CCAJ-SC39/359/20 - 113762408 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISCRUZ en la fila 5318 para MN.
+2 La asignación CCAJ-SC65/172/23 - 113762381 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MUTUALISTA en la fila 722 para MN.
+3 La asignación CCAJ-SC65/171/23 - 113762382 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MUTUALISTA en la fila 707 para MN.
+2 La asignación CCAJ-SC57/172/23 - 113762383 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MONTERO en la fila 664 para MN.
+3 La asignación CCAJ-SC57/171/23 - 113762384 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. MONTERO en la fila 651 para MN.
+2 La asignación CCAJ-SC59/173/23 - 113762386 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. WARNES en la fila 1041 para MN.
+3 La asignación CCAJ-SC59/172/23 - 113762387 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. WARNES en la fila 1028 para MN.
+2 La asignación CCAJ-TA43/173/20 - 113762410 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISTAR en la fila 902 para MN.
+3 La asignación CCAJ-TA43/172/20 - 113762411 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISTAR en la fila 887 para MN.
+4 La asignación CCAJ-TA43/173/20 - 113762410 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISTAR en la fila 902 para MN.
+5 La asignación CCAJ-TA43/172/20 - 113762411 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja DISTAR en la fila 887 para MN.
+2 La asignación CCAJ-TA06/172/23 - 113762388 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. TARIJEÑITA en la fila 696 para MN.
+3 La asignación CCAJ-TA06/171/23 - 113762389 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. TARIJEÑITA en la fila 682 para MN.
+2 La asignación CCAJ-CB11/177/20 - 113762412 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja COCHABAMBA en la fila 2244 para MN.
+3 La asignación CCAJ-CB11/176/20 - 113762413 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja COCHABAMBA en la fila 2200 para MN.
+4 La asignación CCAJ-CB11/177/20 - 113762412 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja COCHABAMBA en la fila 2244 para MN.
+5 La asignación CCAJ-CB11/176/20 - 113762413 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja COCHABAMBA en la fila 2200 para MN.
+2 La asignación CCAJ-CB12/319/23 - 113762390 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. HONDURAS en la fila 1144 para MN.
+3 La asignación CCAJ-CB12/320/23 - 113762391 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. HONDURAS en la fila 1153 para MN.
+4 La asignación CCAJ-CB12/317/23 - 113762428 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. HONDURAS en la fila 1120 para MN.
+5 La asignación CCAJ-CB12/318/23 - 113762429 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. HONDURAS en la fila 1130 para MN.
+2 La asignación CCAJ-CB13/172/23 - 113762392 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. CALAMA en la fila 706 para MN.
+3 La asignación CCAJ-CB13/171/23 - 113762430 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. CALAMA en la fila 692 para MN.
+2 La asignación CCAJ-SR27/144/20 - 113762415 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja SUCRE en la fila 1035 para MN.
+3 La asignación CCAJ-SR27/143/20 - 113762416 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja SUCRE en la fila 1007 para MN.
+4 La asignación CCAJ-SR27/144/20 - 113762415 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja SUCRE en la fila 1035 para MN.
+5 La asignación CCAJ-SR27/143/20 - 113762416 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja SUCRE en la fila 1007 para MN.
+2 La asignación CCAJ-SR54/171/23 - 113762393 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. SUCRE 1 en la fila 662 para MN.
+3 La asignación CCAJ-SR54/170/23 - 113762394 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. SUCRE 1 en la fila 649 para MN.
+2 La asignación CCAJ-SR24/172/23 - 113762395 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. SUCRE 2 en la fila 691 para MN.
+3 La asignación CCAJ-SR24/171/23 - 113762396 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. SUCRE 2 en la fila 677 para MN.
+2 La asignación CCAJ-PT53/146/20 - 113762417 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja POTOSI en la fila 852 para MN.
+3 La asignación CCAJ-PT53/145/20 - 113762418 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja POTOSI en la fila 828 para MN.
+4 La asignación CCAJ-PT53/146/20 - 113762417 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja POTOSI en la fila 852 para MN.
+5 La asignación CCAJ-PT53/145/20 - 113762418 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja POTOSI en la fila 828 para MN.
+2 La asignación CCAJ-PT18/172/23 - 113762397 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. POTOSI 1 en la fila 658 para MN.
+3 La asignación CCAJ-PT18/171/23 - 113762398 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. POTOSI 1 en la fila 644 para MN.
+2 La asignación CCAJ-OR52/145/20 - 113762419 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja ORURO en la fila 876 para MN.
+3 La asignación CCAJ-OR52/144/20 - 113762420 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja ORURO en la fila 853 para MN.
+4 La asignación CCAJ-OR52/145/20 - 113762419 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja ORURO en la fila 876 para MN.
+5 La asignación CCAJ-OR52/144/20 - 113762420 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja ORURO en la fila 853 para MN.
+2 La asignación CCAJ-OR51/170/23 - 113762399 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. ORURO 1 en la fila 667 para MN.
+3 La asignación CCAJ-OR51/171/23 - 113762400 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. ORURO 1 en la fila 677 para MN.
+2 La asignación CCAJ-TR47/169/20 - 113762421 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja TRINIDAD en la fila 786 para MN.
+3 La asignación CCAJ-TR47/168/20 - 113762422 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja TRINIDAD en la fila 768 para MN.
+4 La asignación CCAJ-TR47/169/20 - 113762421 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja TRINIDAD en la fila 786 para MN.
+5 La asignación CCAJ-TR47/168/20 - 113762422 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja TRINIDAD en la fila 768 para MN.
+2 La asignación CCAJ-TR50/172/23 - 113762401 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. TRINIDAD 1 en la fila 657 para MN.
+3 La asignación CCAJ-TR50/171/23 - 113762402 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja AG. TRINIDAD 1 en la fila 644 para MN.
+2 La asignación CCAJ-PN62/171/20 - 113762452 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja PANDO en la fila 710 para MN.
+3 La asignación CCAJ-PN62/170/20 - 113762453 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja PANDO en la fila 696 para MN.
+2 La asignación CCAJ-RB01/143/20 - 113762451 se agregó al archivo MIGRACIONES SGV JULIO 2023 31-07-2023.xlsx en la hoja RIBERALTA en la fila 651 para MN.
+31.07.2023-12 38 06 Proceso de pegado de asignaciones y ndocs finalizado
